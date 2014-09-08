@@ -1,4 +1,1 @@
-complex-pseudoinverse
-=====================
-
-Compute the pseudo-inverse from the SVD.
+![](https://github.com/stemblab/complex-pseudoinverse/blob/gh-pages/thumb.png)
