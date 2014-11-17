@@ -25,5 +25,3 @@ Ap = cpinv(A) #;
 Ap.x
 # Imag part of pseudoinverse
 Ap.y
-
-
